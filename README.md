@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashisht999
 - 👀 I’m interested in BLockchain.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m curently learning Backend
 - 💞️ I’m looking to collaborate on New technologies.
 - 📫 How to reach me ashishtilekar5107@gmail.com
 
